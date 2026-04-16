@@ -1,0 +1,2 @@
+DATABASE_NAME="spam_detection_db"
+COLLECTION_NAME="spam_detection_collection"

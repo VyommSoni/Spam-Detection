@@ -1,0 +1,1 @@
+TRAINING_BUCEKT='Spam-Ham-Detection'
